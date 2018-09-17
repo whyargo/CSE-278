@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link type='text/css' rel='stylesheet' href='http://ceclnx01.cec.miamiOH.edu/~raodm/ex3/ex3.css'/>
+</head>
+<body>
+<div class='line'>Love</div>
+<div class='line'>and</div>
+<div class='line'>Honor</div>
+</body>
+</html>
